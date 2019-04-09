@@ -1,8 +1,7 @@
 {
-  "name": "OWASP Juice Shop",
+  "name": "News Shop",
   "description": "Probably the most modern and sophisticated insecure web application",
-  "website": "http://owasp-juice.shop",
-  "repository": "https://github.com/bkimminich/juice-shop",
+  "repository": "https://github.com/kozmic/juice-shop",
   "logo": "https://raw.githubusercontent.com/bkimminich/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo.png",
   "keywords": [
     "web security",
